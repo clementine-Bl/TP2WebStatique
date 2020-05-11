@@ -1,0 +1,51 @@
+p { font-family: Verdana, sans-serif; }
+h1 { 
+    font-family: 'Marko One', serif; 
+    font-size: 1.5em;
+    color: #993399;
+    text-shadow: #D3D3D3 .0em .2em ;
+}
+#div1 {
+    text-align: center;
+}
+span.price {
+    font-family: Georgia, sans-serif;
+    color: #808080;
+}
+h2 {
+    font-size: 1em;
+    color: #CC6600;
+    text-align: center;
+    letter-spacing: 4px;
+}
+dt {
+    color: #A0522D
+}
+p.warning {
+    font-size: 0.7em;
+    color: #FF0000;
+    
+}
+strong {
+    color: #FF6347 ;
+}
+li.c4 {
+    font-size: 2em;
+}
+
+
+body {
+    background-color: #D2DC9D;
+}
+#div1 {
+    background-color: white; 
+    opacity: 0.50;
+    background-image: url(images/purpledot.png);
+    background-size: 20px 20px;
+    background-repeat: repeat-x;
+}
+#appetizers > ul > li >a {text-decoration: none;}
+#appetizers > ul > li >a:link {color: #993399}
+#appetizers > ul > li >a:visited {color:#937393}
+#appetizers > ul > li >a:hover {color: #C700F2; background-color: #FFC0CB;}
+
