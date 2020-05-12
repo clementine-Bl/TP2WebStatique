@@ -5,9 +5,6 @@ h1 {
     color: #993399;
     text-shadow: #D3D3D3 .0em .2em ;
 }
-#div1 {
-    text-align: center;
-}
 span.price {
     font-family: Georgia, sans-serif;
     color: #808080;
@@ -43,6 +40,7 @@ body {
     background-repeat: no-repeat;
 }
 #div1 {
+    text-align: center;
     background-color: white; 
     opacity: 0.50;
     background-image: url(images/purpledot.png),url(images/purpledot.png),url(images/goose_shadow.png);
